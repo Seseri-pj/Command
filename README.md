@@ -1,3 +1,4 @@
 # Command
 
-initial commit
+second edit
+after conflict
